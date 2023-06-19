@@ -12,7 +12,7 @@ CRIAÇÃO DA CENA
 4. coloquei alguns itens para personalizar a pista, como power ups e barreiras.
 5. criei obstaculos com cilindros
 
-img
+img src="img/pista.png">
 
 //script do carro
 1. após importar o carro no unity, arraste o carro na cena
