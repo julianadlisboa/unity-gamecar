@@ -2,8 +2,10 @@
 Projeto da cena em 3d de um jogo.
 
 criando movimentação do carro
-
 Utilizei um carro 3d dos assets da loja, faremos com que ele se movimente na cena.
+
+LINK DRIVE-PROJETO!!!!
+https://drive.google.com/file/d/12xu5IsFVAIhXd6d8pR4HQ8RjtX3wFE_s/view?usp=sharing
 
 CRIAÇÃO DA CENA
 1. adiciona um quad para fazer o solo
