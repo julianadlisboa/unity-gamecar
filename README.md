@@ -30,8 +30,9 @@ CRIAÇÃO DA CENA
 
 //zera a força do freio após soltar a te la espaço 
 
-       4.4. Se eu pressionar o espaço vai freiar.
-( if(input.getkey(keycode.space))). Nas ridas traseiras trocamos por braketorque e vai receber o brakeforce.
+     4.4. Se eu pressionar o espaço vai freiar.
+( if(input.getkey(keycode.space))). 
+Nas ridas traseiras trocamos por braketorque e vai receber o brakeforce.
 Tudo isso quando pressiona,logo, quando eu soltar o carro deve parar. 
 Para isso msntem o mesmo código de cima, mude o GetKey para GetKeyDown e coloque invés de v, zero.
 
