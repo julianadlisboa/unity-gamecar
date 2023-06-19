@@ -44,4 +44,6 @@ Para isso msntem o mesmo código de cima, mude o GetKey para GetKeyDown e coloqu
 //freia o carro se não tiver nenhuma tecla pressionada
 
  4.5.Quando eu soltar o dedo da seta de acelerar também deve parar se não vai acelerar pra sempre. Para isso, ( if(input.getaxis(vertical)==0), então se não tiver pressionado nenhuma tecla deve parar.
+
+ <img src="jogocar/img/script.png"></img>
    
