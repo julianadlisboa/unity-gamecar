@@ -13,6 +13,9 @@ CRIAÇÃO DA CENA
 5. criei obstaculos com cilindros
 
   <img src="jogocar/img/pista.png"></img>
+  
+  <img src="jogocar/img/coisas.png"></img>
+  
 
 //script do carro
 1. após importar o carro no unity, arraste o carro na cena
